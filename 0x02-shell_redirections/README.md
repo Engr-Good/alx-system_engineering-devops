@@ -1,2 +1,2 @@
-script that displays a confused smiley "(Ôo)
+script that displays a confused smiley
 
